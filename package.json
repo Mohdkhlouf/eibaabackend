@@ -26,8 +26,6 @@
   "engines": {
     "node": "18.x",
     "npm": ">=6.0.0"
-    
-     
   },
   "license": "MIT"
 }
